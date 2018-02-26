@@ -1,2 +1,2 @@
 # Detect Spoofing ARP/TLS
-# By Gean P, Yuliana V, G. Isaza
+By Gean P, Yuliana V, G. Isaza
