@@ -9,6 +9,7 @@ from modules import arp, syn_flood, dhcp, ssl
 
 def clearScreen():
     os.system('clear')
+    os.system('ps -ef|grep spoof')
 
 def start_menu():
     clearScreen()
